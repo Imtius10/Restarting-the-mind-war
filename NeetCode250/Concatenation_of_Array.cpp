@@ -4,6 +4,14 @@
 #define pb push_back
 #define ll long long
 using namespace std;
+
+class Solution {
+public:
+    vector<int> getConcatenation(vector<int>& nums) {
+        
+    }
+};
+
 int main()
 {
   ios_base::sync_with_stdio(false);
@@ -12,11 +20,10 @@ int main()
    freopen("input.txt","r",stdin);
    freopen("output.txt","w",stdout);
   #endif
-  int t;  cin>>t;
-
+  int t;
+  cin>>t;
   while(t--){
-    
+  cout<<t<<nl;
   }
-  
   return 0;
 }
